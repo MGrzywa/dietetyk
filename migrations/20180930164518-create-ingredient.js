@@ -19,7 +19,7 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DATE
       },
-      dishid: {
+      dishId: {
         type: Sequelize.INTEGER
       }
     });
